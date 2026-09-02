@@ -15,15 +15,15 @@ The HANTRAMANAV team is organized into specialized technical roles covering **RO
 
 |  # | Team Member      | Role                                              | Primary Responsibilities                                                                                                            |
 | -: | ---------------- | ------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-|  1 |   Gopikrishna    | 🎯 **Team Lead & ROS/ML Lead**                    | Overall project leadership, ROS 2 architecture, ML integration, system coordination, technical decisions and end-to-end integration |
-|  2 | **Suyambu Raja** | 🤖 **ML Model Engineer**                          | ML model development, training, optimization, person detection, model deployment and inference pipeline                             |
-|  3 | **Salman**       | 🧪 **ML Model Testing Engineer**                  | Model testing, accuracy evaluation, test datasets, performance analysis and validation                                              |
-|  4 | **Sweetha**      | 📚 **Documentation & ML Verification Lead**       | Technical documentation, reports, ML model verification, test-result documentation and competition submission                       |
-|  5 | **Meghna Reddy** | 🖥️ **GCS & Software Engineer**                   | Ground Control Station development/configuration, software development, monitoring and software integration                         |
+|  1 | **Gopikrishna S**| 🎯 **Team Lead & ROS/ML Lead**                    | Overall project leadership, ROS 2 architecture, ML integration, system coordination, technical decisions and end-to-end integration |
+|  2 | **Suyambu Raja A*| 🤖 **ML Model Engineer**                          | ML model development, training, optimization, person detection, model deployment and inference pipeline                             |
+|  3 | **Salman S**     | 🧪 **ML Model Testing Engineer**                  | Model testing, accuracy evaluation, test datasets, performance analysis and validation                                              |
+|  4 | **Swetha S**     | 📚 **Documentation & ML Verification Lead**       | Technical documentation, reports, ML model verification, test-result documentation and competition submission                       |
+|  5 | **Meghana Reddy**| 🖥️ **GCS & Software Engineer**                   | Ground Control Station development/configuration, software development, monitoring and software integration                         |
 |  6 | **Yogeshwar**    | 🔧 **Hardware Integration & Simulation Engineer** | Hardware integration, drone simulation, system testing and hardware-in-the-loop validation                                          |
 |  7 | **Raghul**       | 📡 **Sensor & IoT Integration Engineer**          | Sensor integration, IoT communication, sensor data acquisition and onboard connectivity                                             |
 |  8 | **Kishor Kumar** | 📶 **Communication & Drone Telemetry Engineer**   | Drone telemetry, communication systems, MAVLink configuration and ground-to-drone communication                                     |
-|  9 | **Navein Akash** | ⚙️ **Hardware Integration Engineer**              | Drone assembly, hardware interfacing, wiring, component integration and hardware testing                                            |
+|  9 | **Navien Akash R V** | ⚙️ **Hardware Integration Engineer**              | Drone assembly, hardware interfacing, wiring, component integration and hardware testing                                            |
 | 10 | **Rithik Rahul** | 🛰️ **ROS & Drone Integration Engineer**          | ROS 2 integration, flight-controller interfacing, ROS-drone communication and system-level integration                              |
 
 ---
