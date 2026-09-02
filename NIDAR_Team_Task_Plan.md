@@ -32,7 +32,7 @@ Our team combines **Artificial Intelligence, ROS 2, autonomous drone technology,
 <tr>
 <td width="50%" valign="top">
 
-### 👑 Gopikrishna S
+###  Gopikrishna S
 
 **Team Lead • ROS & ML Lead**
 
