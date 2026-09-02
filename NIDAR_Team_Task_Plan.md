@@ -15,7 +15,7 @@ The HANTRAMANAV team is organized into specialized technical roles covering **RO
 
 |  # | Team Member      | Role                                              | Primary Responsibilities                                                                                                            |
 | -: | ---------------- | ------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-|  1 | **Gopikrishna ** | 🎯 **Team Lead & ROS/ML Lead**                    | Overall project leadership, ROS 2 architecture, ML integration, system coordination, technical decisions and end-to-end integration |
+|  1 |   Gopikrishna    | 🎯 **Team Lead & ROS/ML Lead**                    | Overall project leadership, ROS 2 architecture, ML integration, system coordination, technical decisions and end-to-end integration |
 |  2 | **Suyambu Raja** | 🤖 **ML Model Engineer**                          | ML model development, training, optimization, person detection, model deployment and inference pipeline                             |
 |  3 | **Salman**       | 🧪 **ML Model Testing Engineer**                  | Model testing, accuracy evaluation, test datasets, performance analysis and validation                                              |
 |  4 | **Sweetha**      | 📚 **Documentation & ML Verification Lead**       | Technical documentation, reports, ML model verification, test-result documentation and competition submission                       |
