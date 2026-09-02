@@ -1,105 +1,145 @@
-# 🚁 NIDAR AirMouse — Team Roles
+# 🚁 NIDAR AirMouse
 
-**Team:** HANTRAMANAV
-**Track:** Track 1 — Drone Innovation
-**Project:** NIDAR AirMouse
-**Mission:** GPS-Denied Indoor Search, Mapping & Survivor Localisation
+<p align="center">
+  <img src="https://img.shields.io/badge/Mission-GPS--Denied%20Indoor%20Search-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Track-1%20%7C%20Drone%20Innovation-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Team-HANTRAMANAV-purple?style=for-the-badge" />
+</p>
 
----
+<h3 align="center">
+  🛰️ Autonomous Drone • 🤖 AI • 🗺️ SLAM • 📡 Telemetry • 👁️ Survivor Detection
+</h3>
 
-## 👥 Team HANTRAMANAV
-
-The HANTRAMANAV team is organized into specialized technical roles covering **ROS 2, Machine Learning, Drone Integration, Hardware, Sensors, Communication, Ground Control, Simulation, Testing, and Documentation**.
-
-### 🧑‍💻 Team Structure
-
-|  # | Team Member      | Role                                              | Primary Responsibilities                                                                                                            |
-| -: | ---------------- | ------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-|  1 | **Gopikrishna S**| 🎯 **Team Lead & ROS/ML Lead**                    | Overall project leadership, ROS 2 architecture, ML integration, system coordination, technical decisions and end-to-end integration |
-|  2 |  *Suyambu Raja A*| 🤖 **ML Model Engineer**                          | ML model development, training, optimization, person detection, model deployment and inference pipeline                             |
-|  3 | **Salman S**     | 🧪 **ML Model Testing Engineer**                  | Model testing, accuracy evaluation, test datasets, performance analysis and validation                                              |
-|  4 | **Swetha S**     | 📚 **Documentation & ML Verification Lead**       | Technical documentation, reports, ML model verification, test-result documentation and competition submission                       |
-|  5 | **Meghana Reddy**| 🖥️ **GCS & Software Engineer**                   | Ground Control Station development/configuration, software development, monitoring and software integration                         |
-|  6 | **Yogeshwar**    | 🔧 **Hardware Integration & Simulation Engineer** | Hardware integration, drone simulation, system testing and hardware-in-the-loop validation                                          |
-|  7 | **Raghul**       | 📡 **Sensor & IoT Integration Engineer**          | Sensor integration, IoT communication, sensor data acquisition and onboard connectivity                                             |
-|  8 | **Kishor Kumar** | 📶 **Communication & Drone Telemetry Engineer**   | Drone telemetry, communication systems, MAVLink configuration and ground-to-drone communication                                     |
-|  9 | **Navien Akash R V** | ⚙️ **Hardware Integration Engineer**              | Drone assembly, hardware interfacing, wiring, component integration and hardware testing                                            |
-| 10 | **Rithik Rahul** | 🛰️ **ROS & Drone Integration Engineer**          | ROS 2 integration, flight-controller interfacing, ROS-drone communication and system-level integration                              |
+<p align="center">
+  <b>GPS-Denied Indoor Search, Mapping & Survivor Localisation</b>
+</p>
 
 ---
 
-## 🧩 Role Distribution
+## 👥 Meet Team HANTRAMANAV
 
-### 🎯 Leadership & System Architecture
+> **10 Members • One Mission • One Integrated Autonomous System**
 
-**Gopikrishna (GK) — Team Lead & ROS/ML Lead**
-
-Responsible for coordinating the complete technical architecture and ensuring that all subsystems work together.
-
-**Focus Areas:**
-
-* ROS 2 architecture
-* ML pipeline integration
-* System-level integration
-* Technical coordination
-* GPS-denied navigation integration
-* Mission architecture
-* Team technical planning
+Our team combines **Artificial Intelligence, ROS 2, autonomous drone technology, sensor integration, simulation, telemetry, GCS software, and real-time survivor detection** to build NIDAR AirMouse.
 
 ---
 
-### 🤖 Artificial Intelligence & Machine Learning
+## 🧑‍🚀 Team Roles
 
-**Suyambu Raja — ML Model Engineer**
+### 🎯 Leadership & Core Architecture
 
-* Person-detection model development
-* Dataset/model training
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 👑 Gopikrishna S
+
+**Team Lead • ROS & ML Lead**
+
+* 🧠 ROS 2 architecture
+* 🤖 ML pipeline integration
+* 🛰️ GPS-denied navigation
+* 🔗 End-to-end system integration
+* ⚙️ Technical architecture
+* 🚀 Team coordination
+
+</td>
+<td width="50%" valign="top">
+
+### 🛰️ P Rithik Rahul
+
+**ROS & Drone Integration Engineer**
+
+* 🤖 ROS 2 integration
+* 🚁 Drone software integration
+* 🔌 Flight-controller interfacing
+* 📡 ROS ↔ Drone communication
+* 🧩 Sensor data integration
+* 🛠️ System debugging
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🤖 AI & Machine Learning Team
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🧠 Suyambu Raja A
+
+**ML Model Engineer**
+
+* Model development
+* Model training
+* Person detection
 * Model optimization
 * Inference pipeline
 * AI deployment
 
-**Salman — ML Model Testing Engineer**
+</td>
+
+<td width="33%" valign="top">
+
+### 🧪 Salman S
+
+**ML Model Testing Engineer**
 
 * Model testing
-* Detection accuracy evaluation
-* Test dataset preparation
-* Performance benchmarking
+* Accuracy evaluation
+* Dataset testing
+* Performance analysis
+* Benchmarking
 * Failure-case analysis
 
-**Sweetha — ML Model Verification**
+</td>
 
-* Model verification
-* Test-result validation
-* ML performance documentation
+<td width="33%" valign="top">
+
+### 📚 Swetha S
+
+**Documentation & ML Verification Lead**
+
+* ML verification
+* Result validation
+* Test documentation
 * Verification reports
-* Experimental result tracking
+* Technical documentation
+* Competition submission
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🖥️ Ground Control & Software
+# 🚁 Drone & Hardware Team
 
-**Meghna Reddy — GCS & Software Engineer**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-* Ground Control Station
-* Software development
-* GCS configuration
-* Drone monitoring
-* Software-side integration
-* Mission monitoring interfaces
+### 🔧 K Yogeshwar
 
----
-
-### 🚁 Hardware & Simulation
-
-**Yogeshwar — Hardware Integration & Simulation Engineer**
+**Hardware Integration & Simulation Engineer**
 
 * Drone hardware integration
 * Simulation environment
 * Hardware testing
-* Simulation-based validation
+* Simulation validation
 * Hardware-in-the-loop testing
+* System verification
 
-**Navein Akash — Hardware Integration Engineer**
+</td>
+
+<td width="50%" valign="top">
+
+### ⚙️ Navien Akash R V
+
+**Hardware Integration Engineer**
 
 * Drone assembly
 * Hardware interfacing
@@ -108,122 +148,209 @@ Responsible for coordinating the complete technical architecture and ensuring th
 * Hardware troubleshooting
 * Bench testing
 
+</td>
+</tr>
+</table>
+
 ---
 
-### 📡 Sensors & IoT
+# 📡 Sensors, IoT & Communication
 
-**Raghul — Sensor & IoT Integration Engineer**
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 📡 Raghul J
+
+**Sensor & IoT Integration Engineer**
 
 * Sensor integration
 * IoT communication
 * Sensor data acquisition
 * Onboard connectivity
-* Sensor-to-computer communication
+* Sensor interfacing
 
----
+</td>
 
-### 📶 Communication & Telemetry
+<td width="33%" valign="top">
 
-**Kishor Kumar — Communication & Drone Telemetry Engineer**
+### 📶 S Kishor Kumar
+
+**Communication & Drone Telemetry Engineer**
 
 * Drone telemetry
-* MAVLink communication
-* Telemetry configuration
-* Ground-to-drone communication
-* Communication testing
-* Link reliability testing
+* MAVLink
+* Communication systems
+* Ground ↔ Drone communication
+* Telemetry testing
+* Link reliability
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🖥️ Dantla Meghana Reddy
+
+**GCS & Software Engineer**
+
+* Ground Control Station
+* Software development
+* GCS configuration
+* Drone monitoring
+* Software integration
+* Mission interfaces
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🛰️ ROS & Drone Integration
+# 🧩 Team at a Glance
 
-**Rithik Rahul — ROS & Drone Integration Engineer**
-
-* ROS 2 integration
-* Drone software integration
-* Flight-controller interfacing
-* ROS-to-drone communication
-* Sensor data integration
-* System-level debugging
+| 👤 Member                | 🎯 Role                               | 🔑 Focus                                |
+| ------------------------ | ------------------------------------- | --------------------------------------- |
+| **Gopikrishna S**        | 👑 Team Lead & ROS/ML Lead            | ROS 2 • ML • System Integration         |
+| **Suyambu Raja A**       | 🤖 ML Model Engineer                  | AI • Training • Deployment              |
+| **Salman S**             | 🧪 ML Model Testing Engineer          | Testing • Accuracy • Validation         |
+| **Swetha S**             | 📚 Documentation & ML Verification    | Documentation • Verification            |
+| **Dantla Meghana Reddy** | 🖥️ GCS & Software Engineer           | GCS • Software • Monitoring             |
+| **K Yogeshwar**          | 🔧 Hardware & Simulation Engineer     | Hardware • Simulation • HIL             |
+| **Raghul J**             | 📡 Sensor & IoT Engineer              | Sensors • IoT • Data                    |
+| **S Kishor Kumar**       | 📶 Communication & Telemetry Engineer | MAVLink • Telemetry • Communication     |
+| **Navien Akash R V**     | ⚙️ Hardware Integration Engineer      | Assembly • Wiring • Integration         |
+| **P Rithik Rahul**       | 🛰️ ROS & Drone Integration Engineer  | ROS 2 • Flight Controller • Integration |
 
 ---
 
-## 🔄 System Collaboration
+# 🔄 How Our Team Works
 
 ```text
-                    ┌──────────────────────┐
-                    │  GOPIKRISHNA         │
-                    │  TEAM LEAD           │
-                    │  ROS + ML LEAD       │
-                    └──────────┬───────────┘
+                         🚁 NIDAR AIRMOUSE
+                                │
+                                ▼
+                    ┌─────────────────────┐
+                    │   GOPIKRISHNA S     │
+                    │  TEAM LEAD / ROS ML │
+                    └──────────┬──────────┘
                                │
-             ┌─────────────────┼─────────────────┐
-             │                 │                 │
-             ▼                 ▼                 ▼
-      ┌─────────────┐   ┌─────────────┐   ┌─────────────┐
-      │   AI / ML   │   │ ROS / DRONE │   │  HARDWARE   │
-      └──────┬──────┘   └──────┬──────┘   └──────┬──────┘
-             │                 │                 │
-     ┌───────┼───────┐    ┌────┴────┐      ┌────┴────┐
-     │       │       │    │         │      │         │
-     ▼       ▼       ▼    ▼         ▼      ▼         ▼
- Suyambu  Salman  Sweetha Rithik   GK   Yogeshwar Navein
-  Raja            │      Rahul           │        Akash
-     │            │                      │
-     └────────────┴──────────┬───────────┘
-                             │
-                             ▼
-                   ┌──────────────────┐
-                   │ SENSORS & IoT     │
-                   │     Raghul        │
-                   └────────┬─────────┘
-                            │
-                            ▼
-                   ┌──────────────────┐
-                   │ COMMUNICATION &   │
-                   │ TELEMETRY         │
-                   │  Kishor Kumar     │
-                   └────────┬─────────┘
-                            │
-                            ▼
-                   ┌──────────────────┐
-                   │ GCS & SOFTWARE    │
-                   │  Meghna Reddy     │
-                   └──────────────────┘
+          ┌────────────────────┼────────────────────┐
+          │                    │                    │
+          ▼                    ▼                    ▼
+     🤖 AI / ML           🛰️ ROS / DRONE       🔧 HARDWARE
+          │                    │                    │
+    ┌─────┼─────┐        ┌─────┴─────┐        ┌─────┴─────┐
+    │     │     │        │           │        │           │
+    ▼     ▼     ▼        ▼           ▼        ▼           ▼
+ Suyambu Salman Swetha  Rithik      GK    Yogeshwar   Navien
+ Raja              │    Rahul              │          Akash
+    │              │     │                │
+    └──────────────┴─────┴────────────────┘
+                         │
+                         ▼
+                 📡 SENSORS & IoT
+                    Raghul J
+                         │
+                         ▼
+              📶 COMMUNICATION / TELEMETRY
+                  S Kishor Kumar
+                         │
+                         ▼
+                  🖥️ GCS & SOFTWARE
+                 Dantla Meghana Reddy
+                         │
+                         ▼
+              🎯 SURVIVOR LOCALISATION
 ```
 
 ---
 
-## 🛠️ Core Technical Domains
+# 🛠️ Technical Domains
 
-| Domain                        | Team Members              |
-| ----------------------------- | ------------------------- |
-| **Team Leadership**           | Gopikrishna               |
-| **ROS 2**                     | Gopikrishna, Rithik Rahul |
-| **Machine Learning**          | Gopikrishna, Suyambu Raja |
-| **ML Testing & Verification** | Salman, Sweetha           |
-| **GCS & Software**            | Meghna Reddy              |
-| **Hardware Integration**      | Yogeshwar, Navein Akash   |
-| **Simulation**                | Yogeshwar                 |
-| **Sensors & IoT**             | Raghul                    |
-| **Communication**             | Kishor Kumar              |
-| **Drone Telemetry**           | Kishor Kumar              |
-| **System Integration**        | Gopikrishna, Rithik Rahul |
+<p align="center">
 
----
+| Domain                           | Owner(s)                       |
+| -------------------------------- | ------------------------------ |
+| 🎯 **Project Leadership**        | Gopikrishna S                  |
+| 🛰️ **ROS 2**                    | Gopikrishna S • P Rithik Rahul |
+| 🤖 **Machine Learning**          | Gopikrishna S • Suyambu Raja A |
+| 🧪 **ML Testing**                | Salman S                       |
+| ✅ **ML Verification**            | Swetha S                       |
+| 🖥️ **GCS & Software**           | Dantla Meghana Reddy           |
+| 🔧 **Hardware Integration**      | K Yogeshwar • Navien Akash R V |
+| 🧪 **Simulation**                | K Yogeshwar                    |
+| 📡 **Sensors & IoT**             | Raghul J                       |
+| 📶 **Communication & Telemetry** | S Kishor Kumar                 |
+| 🔗 **System Integration**        | Gopikrishna S • P Rithik Rahul |
 
-## 🎯 Team Objective
-
-> **HANTRAMANAV combines AI, ROS 2, autonomous drone systems, sensor fusion, telemetry, and GPS-denied navigation to develop NIDAR AirMouse for reliable indoor search, mapping, and survivor localisation.**
-
-Every team member owns a dedicated technical area while collaborating toward one integrated objective:
-
-**Sense → Localise → Detect → Map → Communicate → Navigate → Find Survivors**
+</p>
 
 ---
 
-## 👨‍🚀 Team HANTRAMANAV
+# 🧠 Our Engineering Pipeline
 
-**NIDAR AirMouse — Track 1: Drone Innovation**
+```text
+        👁️ SENSE
+           │
+           ▼
+    📡 SENSOR DATA
+           │
+           ▼
+       🤖 AI / ML
+           │
+           ▼
+    🎯 PERSON DETECTION
+           │
+           ▼
+       🗺️ SLAM / ROS 2
+           │
+           ▼
+   📍 SURVIVOR LOCALISATION
+           │
+           ▼
+      📶 TELEMETRY
+           │
+           ▼
+       🖥️ GCS
+           │
+           ▼
+      🚁 DRONE MISSION
+```
 
-**10 Members | One Mission | One Integrated Autonomous System**
+---
+
+# 🎯 Mission
+
+NIDAR AirMouse is designed to support **GPS-denied indoor search and rescue** by combining:
+
+* 🤖 **Artificial Intelligence**
+* 🛰️ **ROS 2**
+* 🗺️ **SLAM**
+* 👁️ **Computer Vision**
+* 🌡️ **Thermal Detection**
+* 📡 **IoT & Telemetry**
+* 🚁 **Autonomous Drone Systems**
+* 📍 **Survivor Localisation**
+* 🖥️ **Ground Control Station**
+
+---
+
+## 🏆 HANTRAMANAV
+
+<p align="center">
+
+### **SENSE → LOCALISE → DETECT → MAP → COMMUNICATE → NAVIGATE → RESCUE**
+
+<br>
+
+**🚁 NIDAR AirMouse | Track 1 — Drone Innovation**
+
+**10 Members • 1 Team • 1 Mission**
+
+</p>
+
+---
+
+<p align="center">
+  <i>Built with teamwork, robotics, artificial intelligence and innovation.</i>
+</p>
